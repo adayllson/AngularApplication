@@ -14,7 +14,16 @@
       "id": 3,
       "name": "Sansung S22+",
       "price": 5000.69
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 4
+    },
+    {
+      "name": "",
+      "price": null,
+      "id": 5
     }
-    
   ]
 }
